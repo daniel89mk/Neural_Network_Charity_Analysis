@@ -1,7 +1,8 @@
 # Neural_Network_Charity_Analysis
-Deep Learning
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis
+Need to help this foundation predict where to make investments. I will use features in the dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
+
 
 ## Results: Using bulleted lists and images to support your answers, address the following questions.
 
